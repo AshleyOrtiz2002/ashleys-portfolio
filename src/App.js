@@ -443,7 +443,7 @@ window.addEventListener('scroll', scrollActive);
                   </div>
                   <div>
                     <h3 className="qualification__title">Team Lead</h3>
-                    <span className="qualification__subtitle">Walmart - Garland</span>
+                    <span className="qualification__subtitle">Walmart - Garland Tx</span>
                     <div className="qualification__calendar">
                       <i className="uil uil-calendar-alt" />
                       2020 - 2022
