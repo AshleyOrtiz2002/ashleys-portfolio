@@ -384,7 +384,7 @@ window.addEventListener('scroll', scrollActive);
                     <span className="qualification__line" />
                   </div>
                   <div>
-                    <h3 className="qualification__title">Bachelors in Computer Science</h3>
+                    <h3 className="qualification__title"> Computer Science</h3>
                     <span className="qualification__subtitle">El Centro College</span>
                     <div className="qualification__calendar">
                       <i className="uil uil-calendar-alt" />
@@ -399,7 +399,7 @@ window.addEventListener('scroll', scrollActive);
                     <span className="qualification__subtitle">YearUp</span>
                     <div className="qualification__calendar">
                       <i className="uil uil-calendar-alt" />
-                      2023 - Present
+                      January - August 2023
                     </div>
                   </div>
                   <div>
@@ -442,7 +442,7 @@ window.addEventListener('scroll', scrollActive);
                     <span className="qualification__line" />
                   </div>
                   <div>
-                    <h3 className="qualification__title">Front End Team Lead</h3>
+                    <h3 className="qualification__title">Team Lead</h3>
                     <span className="qualification__subtitle">Walmart - Garland</span>
                     <div className="qualification__calendar">
                       <i className="uil uil-calendar-alt" />
@@ -453,10 +453,10 @@ window.addEventListener('scroll', scrollActive);
                 <div className="qualification__data">
                   <div>
                     <h3 className="qualification__title">Software Engineer Intern</h3>
-                    <span className="qualification__subtitle">J.P Morgan Chase - Plano</span>
+                    <span className="qualification__subtitle">J.P Morgan Chase - Plano Tx</span>
                     <div className="qualification__calendar">
                       <i className="uil uil-calendar-alt" />
-                      2023 - Present
+                      January - August 2023
                     </div>
                   </div>
                   <div>
@@ -492,6 +492,18 @@ window.addEventListener('scroll', scrollActive);
                 <p></p>
               </div>
               <a href="https://ashleyortiz2002.github.io/chat_app/" target="_blank" className="button button--flex button--small button--link services__button">
+                View More 
+                <i className="uil uil-arrow-right button__icon" />
+              </a>
+            </div>
+            {/*============== Services 3 ============*/}
+            <div className="services__content">
+              <div>
+                <i className="uil uil-bus-school services__icon" />
+                <h3 className="services__title"> Car<br /> Catelog</h3>
+                <p></p>
+              </div>
+              <a href="https://catr.vercel.app/" target="_blank" className="button button--flex button--small button--link services__button">
                 View More 
                 <i className="uil uil-arrow-right button__icon" />
               </a>
