@@ -384,7 +384,7 @@ window.addEventListener('scroll', scrollActive);
                     <span className="qualification__line" />
                   </div>
                   <div>
-                    <h3 className="qualification__title"> Computer Science</h3>
+                    <h3 className="qualification__title">Computer Science</h3>
                     <span className="qualification__subtitle">El Centro College</span>
                     <div className="qualification__calendar">
                       <i className="uil uil-calendar-alt" />
