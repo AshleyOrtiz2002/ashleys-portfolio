@@ -239,7 +239,7 @@ window.addEventListener('scroll', scrollActive);
         {/*==================== ABOUT ====================*/}
         <section className="about section" id="about">
           <h2 className="section__title">Who Am I ?</h2>
-          <span className="section__subtitle">My introduction</span>
+          <span className="section__subtitle">My Introduction</span>
           <div className="about__container container grid">
             <div className="about__data">
               <p className="about__description">I'm an enthusiastic front-end developer fueled by a lifelong passion for computer science and web development. Currently pursuing a degree in computer science at El Centro College, I find immense joy in the creative process of designing visually stunning and user-friendly websites. The art of problem-solving has always captivated me, and I thrive on the challenges it brings. Whether it's debugging complex code or optimizing performance, I approach each task with meticulous attention to detail. I stay up-to-date with the latest front-end technologies and trends to ensure that I deliver innovative solutions that meet the evolving needs of users. With a strong commitment to excellence and a keen eye for design aesthetics, I'm dedicated to crafting exceptional digital experiences that leave a lasting impression.
