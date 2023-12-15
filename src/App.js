@@ -472,11 +472,11 @@ window.addEventListener('scroll', scrollActive);
                     <span className="qualification__line" />
                   </div>
                   <div>
-                    <h3 className="qualification__title">Team Lead</h3>
-                    <span className="qualification__subtitle">Walmart - Garland Tx</span>
+                    <h3 className="qualification__title">IT Support</h3>
+                    <span className="qualification__subtitle">Apple - Dallas Tx</span>
                     <div className="qualification__calendar">
                       <i className="uil uil-calendar-alt" />
-                      July 2020 - October 2022
+                      October 2023 - Present
                     </div>
                   </div>
                 </div>
