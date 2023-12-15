@@ -238,7 +238,7 @@ window.addEventListener('scroll', scrollActive);
         </section>
         {/*==================== ABOUT ====================*/}
         <section className="about section" id="about">
-          <h2 className="section__title">Who Am I ?</h2>
+          <h2 className="section__title">Who Am I?</h2>
           <span className="section__subtitle">My Introduction</span>
           <div className="about__container container grid">
             <div className="about__data">
@@ -446,7 +446,7 @@ window.addEventListener('scroll', scrollActive);
                     <span className="qualification__subtitle">Walmart - Garland Tx</span>
                     <div className="qualification__calendar">
                       <i className="uil uil-calendar-alt" />
-                      2020 - 2022
+                      July 2020 - October 2022
                     </div>
                   </div>
                 </div>
@@ -461,7 +461,23 @@ window.addEventListener('scroll', scrollActive);
                   </div>
                   <div>
                     <span className="qualification__rounder" />
+                    <span className="qualification__line" />
                     {/* <span class="qualification__line"></span> */}
+                  </div>
+                </div>
+                <div className="qualification__data">
+                  <div />
+                  <div className="qualification__time">
+                    <span className="qualification__rounder" />
+                    <span className="qualification__line" />
+                  </div>
+                  <div>
+                    <h3 className="qualification__title">IT Support</h3>
+                    <span className="qualification__subtitle">Apple - Dallas Tx</span>
+                    <div className="qualification__calendar">
+                      <i className="uil uil-calendar-alt" />
+                      October 2023 - Present
+                    </div>
                   </div>
                 </div>
               </div>
