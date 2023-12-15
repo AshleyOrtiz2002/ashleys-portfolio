@@ -557,7 +557,7 @@ window.addEventListener('scroll', scrollActive);
             </div>
             <div>
               <h3>
-                If you would like to contact me feel free to send me an email 
+                If you would like to contact me feel free to send me an email!
               </h3>
             </div>
             
