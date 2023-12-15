@@ -238,7 +238,7 @@ window.addEventListener('scroll', scrollActive);
         </section>
         {/*==================== ABOUT ====================*/}
         <section className="about section" id="about">
-          <h2 className="section__title">Who Am I ?</h2>
+          <h2 className="section__title">Who Am I?</h2>
           <span className="section__subtitle">My Introduction</span>
           <div className="about__container container grid">
             <div className="about__data">
